@@ -8,6 +8,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006291639953)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-luis-morales-paez-b69a951a7/)
 
+![GitHub followers](https://img.shields.io/github/followers/depredador-cloud.svg?style=social&label=Follow&maxAge=2592000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=depredador-cloud&theme=blue-green)
+
 ## Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
