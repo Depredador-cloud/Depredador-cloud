@@ -1,0 +1,678 @@
+### Plan en Español: HTML5 y CSS3
+
+#### Introducción
+- Objetivo: Presentación general del contenido y la importancia de HTML5 y CSS3.
+
+#### Capítulo 1: La Evolución del HTML y los CSS
+- 1.1 Histórico Rápido de Internet
+  - Ejemplo HTML5:
+    html
+    <h1>Histórico Rápido de Internet</h1>
+    <p>El Internet ha evolucionado significativamente desde sus inicios en 1989...</p>
+    
+- 1.2 La Evolución del HTML
+  - Ejemplo HTML5:
+    html
+    <h2>Evolución del HTML</h2>
+    <p>Desde HTML1 hasta HTML5, el lenguaje ha experimentado varios cambios...</p>
+    
+- 1.3 La Evolución de los CSS
+  - Ejemplo CSS3:
+    
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+    }
+    
+
+#### Capítulo 2: La Nueva Sintaxis HTML5
+- 2.1 La Doctype
+  - Ejemplo HTML5:
+    html
+    <!DOCTYPE html>
+    <html lang="es">
+    <head>
+      <meta charset="UTF-8">
+      <title>Ejemplo de Doctype</title>
+    </head>
+    <body>
+      <h1>Ejemplo de Doctype</h1>
+    </body>
+    </html>
+    
+- 2.2 El Documento HTML
+  - Ejemplo HTML5:
+    html
+    <html lang="es">
+    <head>
+      <meta charset="UTF-8">
+      <title>Documento HTML</title>
+    </head>
+    <body>
+      <h1>Bienvenido a HTML5</h1>
+    </body>
+    </html>
+    
+
+#### Capítulo 3: Los Elementos de Estructura HTML5
+- 3.1 Nuevos Elementos de Estructura
+  - Ejemplo HTML5:
+    html
+    <header>
+      <h1>Encabezado Principal</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Acerca de</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+    
+
+#### Capítulo 4: Evolución Hacia CSS3
+- 4.1 Estado Actual
+  - Ejemplo CSS3:
+    
+    h1 {
+      color: #333;
+      text-align: center;
+    }
+    
+
+#### Capítulo 5: Los Nuevos Selectores CSS3
+- 5.1 Selectores Adjuntos Generales
+  - Ejemplo CSS3:
+    
+    p ~ ul {
+      background-color: #f9f9f9;
+    }
+    
+
+#### Capítulo 6: La Formateo CSS3 de Cajas
+- 6.1 Propiedades de las Cajas
+  - Ejemplo CSS3:
+    
+    .box {
+      width: 100px;
+      height: 100px;
+      background-color: #00f;
+    }
+    
+
+#### Capítulo 7: HTML5 y CSS3 para Texto
+- 7.1 Elementos Obsoletos
+  - Ejemplo HTML5:
+    html
+    <del>Este texto está obsoleto.</del>
+    
+
+#### Capítulo 8: HTML5 y CSS3 para Formularios
+- 8.1 Nuevos Tipos de Campos
+  - Ejemplo HTML5:
+    html
+    <form>
+      <label for="email">Correo Electrónico:</label>
+      <input type="email" id="email" name="email">
+    </form>
+    
+
+#### Capítulo 9: Las Transformaciones CSS3
+- 9.1 Aplicar Transformaciones
+  - Ejemplo CSS3:
+    
+    .transform {
+      transform: rotate(45deg);
+    }
+    
+
+#### Capítulo 10: Las Transiciones CSS3
+- 10.1 Transiciones Básicas
+  - Ejemplo CSS3:
+    
+    .transition {
+      transition: all 0.3s ease-in-out;
+    }
+    
+
+#### Capítulo 11: Las Animaciones CSS3
+- 11.1 Construcción de Animaciones
+  - Ejemplo CSS3:
+    
+    @keyframes example {
+      from {background-color: red;}
+      to {background-color: yellow;}
+    }
+    
+
+#### Capítulo 12: Multimedia: Audio y Video
+- 12.1 Insertar Audio
+  - Ejemplo HTML5:
+    html
+    <audio controls>
+      <source src="audio.mp3" type="audio/mpeg">
+      Tu navegador no soporta el elemento de audio.
+    </audio>
+    
+
+#### Capítulo 13: Diseño Web Adaptativo
+- 13.1 Rejillas Fluidas
+  - Ejemplo CSS3:
+    
+    .container {
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+    }
+    
+
+#### Capítulo 14: Flexbox
+- 14.1 Propiedades de Flexbox
+  - Ejemplo CSS3:
+    
+    .flex-container {
+      display: flex;
+      justify-content: center;
+    }
+    
+
+#### Capítulo 15: Módulos CSS3 en Desarrollo
+- 15.1 Utilizar Máscaras
+  - Ejemplo CSS3:
+    
+    .masked {
+      mask-image: url(mask.png);
+    }
+    
+
+
+
+### Plan en Français: HTML5 et CSS3
+
+#### Introduction
+- Objectif: Présentation générale du contenu et de l'importance de HTML5 et CSS3.
+
+#### Chapitre 1 : L'évolution du HTML et des CSS
+- 1.1 Historique Rapide de l'Internet
+  - Exemple HTML5 :
+    html
+    <h1>Historique Rapide de l'Internet</h1>
+    <p>Internet a considérablement évolué depuis ses débuts en 1989...</p>
+    
+- 1.2 L'évolution du HTML
+  - Exemple HTML5 :
+    html
+    <h2>Évolution du HTML</h2>
+    <p>Depuis HTML1 jusqu'à HTML5, le langage a subi de nombreux changements...</p>
+    
+- 1.3 L'évolution des CSS
+  - Exemple CSS3 :
+    
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+    }
+    
+
+#### Chapitre 2 : La Nouvelle Syntaxe HTML5
+- 2.1 La Doctype
+  - Exemple HTML5 :
+    html
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="UTF-8">
+      <title>Exemple de Doctype</title>
+    </head>
+    <body>
+      <h1>Exemple de Doctype</h1>
+    </body>
+    </html>
+    
+- 2.2 Le Document HTML
+  - Exemple HTML5 :
+    html
+    <html lang="fr">
+    <head>
+      <meta charset="UTF-8">
+      <title>Document HTML</title>
+    </head>
+    <body>
+      <h1>Bienvenue à HTML5</h1>
+    </body>
+    </html>
+    
+
+#### Chapitre 3 : Les Éléments de Structure HTML5
+- 3.1 Nouveaux Éléments de Structure
+  - Exemple HTML5 :
+    html
+    <header>
+      <h1>En-tête Principal</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Accueil</a></li>
+        <li><a href="#">À propos</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    
+
+#### Chapitre 4 : Évolution vers CSS3
+- 4.1 État des Lieux
+  - Exemple CSS3 :
+    
+    h1 {
+      color: #333;
+      text-align: center;
+    }
+    
+
+#### Chapitre 5 : Les Nouveaux Sélecteurs CSS3
+- 5.1 Sélecteurs Adjoints Généraux
+  - Exemple CSS3 :
+    
+    p ~ ul {
+      background-color: #f9f9f9;
+    }
+    
+
+#### Chapitre 6 : La Mise en Forme CSS3 des Boîtes
+- 6.1 Propriétés des Boîtes
+  - Exemple CSS3 :
+    
+    .box {
+      width: 100px;
+      height: 100px;
+      background-color: #00f;
+    }
+    
+
+#### Chapitre 7 : HTML5 et CSS3 pour le Texte
+- 7.1 Éléments Obsolètes
+  - Exemple HTML5 :
+    html
+    <del>Ce texte est obsolète.</del>
+    
+
+#### Chapitre 8 : HTML5 et CSS3 pour les Formulaires
+- 8.1 Nouveaux Types de Champs
+  - Exemple HTML5 :
+    html
+    <form>
+      <label for
+
+### Plan en Español: HTML5 y CSS3
+
+#### Introducción
+- **Objetivo:** Presentación general del contenido y la importancia de HTML5 y CSS3.
+
+#### Capítulo 1: La Evolución del HTML y los CSS
+- **1.1 Histórico Rápido de Internet**
+  - Ejemplo HTML5:
+html
+    <h1>Histórico Rápido de Internet</h1>
+    <p>El Internet ha evolucionado significativamente desde sus inicios en 1989...</p>
+
+- **1.2 La Evolución del HTML**
+  - Ejemplo HTML5:
+html
+    <h2>Evolución del HTML</h2>
+    <p>Desde HTML1 hasta HTML5, el lenguaje ha experimentado varios cambios...</p>
+
+- **1.3 La Evolución de los CSS**
+  - Ejemplo CSS3:
+   
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+    }
+
+
+#### Capítulo 2: La Nueva Sintaxis HTML5
+- **2.1 La Doctype**
+  - Ejemplo HTML5:
+html
+    <!DOCTYPE html>
+    <html lang="es">
+    <head>
+      <meta charset="UTF-8">
+      <title>Ejemplo de Doctype</title>
+    </head>
+    <body>
+      <h1>Ejemplo de Doctype</h1>
+    </body>
+    </html>
+
+- **2.2 El Documento HTML**
+  - Ejemplo HTML5:
+html
+    <html lang="es">
+    <head>
+      <meta charset="UTF-8">
+      <title>Documento HTML</title>
+    </head>
+    <body>
+      <h1>Bienvenido a HTML5</h1>
+    </body>
+    </html>
+
+
+#### Capítulo 3: Los Elementos de Estructura HTML5
+- **3.1 Nuevos Elementos de Estructura**
+  - Ejemplo HTML5:
+html
+    <header>
+      <h1>Encabezado Principal</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Acerca de</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+
+
+#### Capítulo 4: Evolución Hacia CSS3
+- **4.1 Estado Actual**
+  - Ejemplo CSS3:
+   
+    h1 {
+      color: #333;
+      text-align: center;
+    }
+
+
+#### Capítulo 5: Los Nuevos Selectores CSS3
+- **5.1 Selectores Adjuntos Generales**
+  - Ejemplo CSS3:
+   
+    p ~ ul {
+      background-color: #f9f9f9;
+    }
+
+
+#### Capítulo 6: La Formateo CSS3 de Cajas
+- **6.1 Propiedades de las Cajas**
+  - Ejemplo CSS3:
+   
+    .box {
+      width: 100px;
+      height: 100px;
+      background-color: #00f;
+    }
+
+
+#### Capítulo 7: HTML5 y CSS3 para Texto
+- **7.1 Elementos Obsoletos**
+  - Ejemplo HTML5:
+html
+    <del>Este texto está obsoleto.</del>
+
+
+#### Capítulo 8: HTML5 y CSS3 para Formularios
+- **8.1 Nuevos Tipos de Campos**
+  - Ejemplo HTML5:
+html
+    <form>
+      <label for="email">Correo Electrónico:</label>
+      <input type="email" id="email" name="email">
+    </form>
+
+
+#### Capítulo 9: Las Transformaciones CSS3
+- **9.1 Aplicar Transformaciones**
+  - Ejemplo CSS3:
+   
+    .transform {
+      transform: rotate(45deg);
+    }
+
+
+#### Capítulo 10: Las Transiciones CSS3
+- **10.1 Transiciones Básicas**
+  - Ejemplo CSS3:
+   
+    .transition {
+      transition: all 0.3s ease-in-out;
+    }
+
+
+#### Capítulo 11: Las Animaciones CSS3
+- **11.1 Construcción de Animaciones**
+  - Ejemplo CSS3:
+   
+    @keyframes example {
+      from {background-color: red;}
+      to {background-color: yellow;}
+    }
+
+
+#### Capítulo 12: Multimedia: Audio y Video
+- **12.1 Insertar Audio**
+  - Ejemplo HTML5:
+html
+    <audio controls>
+      <source src="audio.mp3" type="audio/mpeg">
+      Tu navegador no soporta el elemento de audio.
+    </audio>
+
+
+#### Capítulo 13: Diseño Web Adaptativo
+- **13.1 Rejillas Fluidas**
+  - Ejemplo CSS3:
+   
+    .container {
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+    }
+
+
+#### Capítulo 14: Flexbox
+- **14.1 Propiedades de Flexbox**
+  - Ejemplo CSS3:
+   
+    .flex-container {
+      display: flex;
+      justify-content: center;
+    }
+
+
+#### Capítulo 15: Módulos CSS3 en Desarrollo
+- **15.1 Utilizar Máscaras**
+  - Ejemplo CSS3:
+   
+    .masked {
+      mask-image: url(mask.png);
+    }
+
+
+
+
+### Plan en Français: HTML5 et CSS3
+
+#### Introduction
+- **Objectif:** Présentation générale du contenu et de l'importance de HTML5 et CSS3.
+
+#### Chapitre 1 : L'évolution du HTML et des CSS
+- **1.1 Historique Rapide de l'Internet**
+  - Exemple HTML5 :
+html
+    <h1>Historique Rapide de l'Internet</h1>
+    <p>Internet a considérablement évolué depuis ses débuts en 1989...</p>
+
+- **1.2 L'évolution du HTML**
+  - Exemple HTML5 :
+html
+    <h2>Évolution du HTML</h2>
+    <p>Depuis HTML1 jusqu'à HTML5, le langage a subi de nombreux changements...</p>
+
+- **1.3 L'évolution des CSS**
+  - Exemple CSS3 :
+   
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+    }
+
+
+#### Chapitre 2 : La Nouvelle Syntaxe HTML5
+- **2.1 La Doctype**
+  - Exemple HTML5 :
+html
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="UTF-8">
+      <title>Exemple de Doctype</title>
+    </head>
+    <body>
+      <h1>Exemple de Doctype</h1>
+    </body>
+    </html>
+
+- **2.2 Le Document HTML**
+  - Exemple HTML5 :
+html
+    <html lang="fr">
+    <head>
+      <meta charset="UTF-8">
+      <title>Document HTML</title>
+    </head>
+    <body>
+      <h1>Bienvenue à HTML5</h1>
+    </body>
+    </html>
+
+
+#### Chapitre 3 : Les Éléments de Structure HTML5
+- **3.1 Nouveaux Éléments de Structure**
+  - Exemple HTML5 :
+html
+    <header>
+      <h1>En-tête Principal</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Accueil</a></li>
+        <li><a href="#">À propos</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+
+
+#### Chapitre 4 : Évolution vers CSS3
+- **4.1 État des Lieux**
+  - Exemple CSS3 :
+   
+    h1 {
+      color: #333;
+      text-align: center;
+    }
+
+
+#### Chapitre 5 : Les Nouveaux Sélecteurs CSS3
+- **5.1 Sélecteurs Adjoints Généraux**
+  - Exemple CSS3 :
+   
+    p ~ ul {
+      background-color: #f9f9f9;
+    }
+
+
+#### Chapitre 6 : La Mise en Forme CSS3 des Boîtes
+- **6.1 Propriétés des Boîtes**
+  - Exemple CSS3 :
+   
+    .box {
+      width: 100px;
+      height: 100px;
+      background-color: #00f;
+    }
+
+
+#### Chapitre 7 : HTML5 et CSS3 pour le Texte
+- **7.1 Éléments Obsolètes**
+  - Exemple HTML5 :
+html
+    <del>Ce texte est obsolète.</del>
+
+
+#### Chapitre 8 : HTML5 et CSS3 pour les Formulaires
+- **8.1 Nouveaux Types de Champs**
+  - Exemple HTML5 :
+html
+    <form>
+      <label for
+
+="email">Courriel:</label>
+      <input type="email" id="email" name="email">
+    </form>
+
+
+#### Chapitre 9 : Les Transformations CSS3
+- **9.1 Appliquer des Transformations**
+  - Exemple CSS3 :
+   
+    .transform {
+      transform: rotate(45deg);
+    }
+
+
+#### Chapitre 10 : Les Transitions CSS3
+- **10.1 Transitions de Base**
+  - Exemple CSS3 :
+   
+    .transition {
+      transition: all 0.3s ease-in-out;
+    }
+
+
+#### Chapitre 11 : Les Animations CSS3
+- **11.1 Construction d'Animations**
+  - Exemple CSS3 :
+   
+    @keyframes example {
+      from {background-color: red;}
+      to {background-color: yellow;}
+    }
+
+
+#### Chapitre 12 : Multimédia : Audio et Vidéo
+- **12.1 Insérer de l'Audio**
+  - Exemple HTML5 :
+html
+    <audio controls>
+      <source src="audio.mp3" type="audio/mpeg">
+      Votre navigateur ne supporte pas l'élément audio.
+    </audio>
+
+
+#### Chapitre 13 : Design Web Adaptatif
+- **13.1 Grilles Fluides**
+  - Exemple CSS3 :
+   
+    .container {
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+    }
+
+
+#### Chapitre 14 : Flexbox
+- **14.1 Propriétés Flexbox**
+  - Exemple CSS3 :
+   
+    .flex-container {
+      display: flex;
+      justify-content: center;
+    }
+
+
+#### Chapitre 15 : Modules CSS3 en Développement
+- **15.1 Utiliser des Masques**
+  - Exemple CSS3 :
+   
+    .masked {
+      mask-image: url(mask.png);
+    }
