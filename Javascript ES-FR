@@ -1,0 +1,272 @@
+## Plan du livre : Apprendre à développer avec JavaScript
+
+Aquí tienes un plan detallado con los capítulos del libro **"Aprendre à développer avec JavaScript"** de Christian Vigouroux:
+
+## Plan del libro: Aprendre à développer avec JavaScript
+
+### Parte 1: Presentación de JavaScript y programación a partir de algoritmos
+
+#### Capítulo 1-1: Presentación del lenguaje JavaScript
+1. Definición e historia rápida
+2. Prerrequisitos para un aprendizaje fácil del lenguaje
+3. Herramientas necesarias
+4. Posicionamiento de JavaScript frente a otras tecnologías de desarrollo web (HTML, CSS, PHP...)
+
+#### Capítulo 1-2: Desarrollo a partir de algoritmos
+1. Presentación de la noción de algoritmo
+2. Noción de variable
+3. Manipulación de variables
+4. Funciones predefinidas
+5. Tratamientos condicionados
+6. Estructuras iterativas
+7. Tablas unidimensionales
+8. Tablas multidimensionales
+9. Procedimientos, funciones y paso de parámetros
+
+### Parte 2: Comenzar bien con JavaScript
+
+#### Capítulo 2-1: Bases del lenguaje JavaScript
+1. Metodología de aprendizaje
+2. Variables (declaración y tipado)
+
+#### Capítulo 2-2: Condicionamiento de los tratamientos
+1. Presentación de la sintaxis
+2. Ejemplos
+
+#### Capítulo 2-3: Tratamientos iterativos (bucles)
+1. Presentación de la sintaxis de los bucles
+2. Bucle while
+3. Bucle do while
+4. Bucle for
+
+#### Capítulo 2-4: Tablas
+1. Tablas unidimensionales
+2. Tablas multidimensionales
+
+#### Capítulo 2-5: Procedimientos y funciones
+1. Los procedimientos
+2. Las funciones
+
+### Parte 3: Enfoque POO en JavaScript
+
+#### Capítulo 3-1: Enfoque "objeto" en JavaScript
+1. Introducción
+2. Programación orientada a objetos a través de ejemplos
+
+#### Capítulo 3-2: Objetos básicos de JavaScript
+1. Presentación
+2. Los objetos básicos
+
+#### Capítulo 3-3: Novedades de EcmaScript 6
+1. Presentación general
+2. Aportes en la Programación Orientada a Objetos
+3. Funciones flecha (arrow functions)
+4. Estructuras Map, Set y bucle for of
+5. Alcance de las variables (var o let)
+6. Promesas (promise)
+7. Desestructuración
+
+### Parte 4: Gestión de formularios y modelo DOM
+
+#### Capítulo 4-1: Entrada de datos a través de formularios
+1. Control de los controles de entrada a través de JavaScript
+
+#### Capítulo 4-2: Modelo DOM
+1. Introducción
+2. Aprendizaje del modelo DOM
+
+#### Capítulo 4-3: Exploración de flujos XML a través de DOM
+1. Noción de flujo XML
+2. Ejemplos
+
+### Parte 5: Cookies y mecanismos de persistencia
+
+#### Capítulo 5-1: Gestión de cookies en JavaScript
+1. Noción de cookie
+2. Escritura de una cookie
+3. Lectura de una cookie
+4. Supresión de una cookie
+
+#### Capítulo 5-2: Almacenamiento local de datos
+1. Presentación general de las soluciones
+2. Implementación del Web Storage a través de ejemplos
+
+#### Capítulo 5-3: Almacenamiento remoto (Ajax - PHP - MySQL - XML)
+1. Presentación general de la solución
+2. Implementación del almacenamiento remoto a través de ejemplos
+
+#### Capítulo 5-4: Almacenamiento remoto (Ajax - PHP - MySQL - JSON)
+1. Presentación general de la solución
+2. Implementación del almacenamiento remoto a través de ejemplos
+
+### Parte 6: Geolocalización, dibujo y gráficos de gestión
+
+#### Capítulo 6-1: Geolocalización
+1. Principio de la geolocalización
+2. Ejemplos de aplicaciones de geolocalización
+
+#### Capítulo 6-2: Dibujo (HTML5 CANVAS)
+1. Presentación de la API HTML5 CANVAS
+2. Ejemplos de aplicaciones del elemento <canvas>
+
+#### Capítulo 6-3: Gráficos de gestión
+1. Diferentes soluciones para la concepción de gráficos de gestión
+2. Ejemplos de uso de las API de Google Charts
+
+### Parte 7: Frameworks JavaScript
+
+#### Capítulo 7-1: Posicionamiento de los frameworks JavaScript
+1. Presentación general de los frameworks JavaScript
+
+#### Capítulo 7-2: Instalación de Node.js
+1. Presentación del framework Node.js
+2. Instalación del framework Node.js
+
+#### Capítulo 7-3: Framework Svelte
+1. Presentación del framework Svelte
+2. Sitio svelte.dev
+3. Creación local de un proyecto Svelte
+
+#### Capítulo 7-4: Framework React
+1. Presentación de React
+2. Creación local de un proyecto React
+3. Proyectos React básicos
+
+#### Capítulo 7-5: Framework React Native
+1. Enfoques de desarrollo para dispositivos móviles
+2. Presentación del framework React Native
+3. Proyectos React Native
+
+### Partie 1 : Présentation de JavaScript et programmation à partir d’algorithmes
+
+#### Chapitre 1-1 : Présentation du langage JavaScript
+1. Définition et rapide historique
+2. Prérequis pour un apprentissage aisé du langage
+3. Outillage nécessaire
+4. Positionnement du JavaScript face à d’autres technologies de développement web (HTML, CSS, PHP...)
+
+#### Chapitre 1-2 : Développement à partir d’algorithmes
+1. Présentation de la notion d'algorithme
+2. Notion de variable
+3. Manipulation des variables
+4. Fonctions prédéfinies
+5. Traitements conditionnés
+6. Structures itératives
+7. Tableaux à dimension unique
+8. Tableaux à dimensions multiples
+9. Procédures, fonctions et passage de paramètres
+
+### Partie 2 : Bien débuter avec JavaScript
+
+#### Chapitre 2-1 : Bases du langage JavaScript
+1. Méthodologie d'apprentissage
+2. Variables (déclaration et typage)
+
+#### Chapitre 2-2 : Conditionnement des traitements
+1. Présentation de la syntaxe
+2. Exemples
+
+#### Chapitre 2-3 : Traitements itératifs (boucles)
+1. Présentation de la syntaxe des boucles
+2. Boucle while
+3. Boucle do while
+4. Boucle for
+
+#### Chapitre 2-4 : Tableaux
+1. Tableaux à dimension unique
+2. Tableaux à dimensions multiples
+
+#### Chapitre 2-5 : Procédures et fonctions
+1. Les procédures
+2. Les fonctions
+
+### Partie 3 : Approche POO sous JavaScript
+
+#### Chapitre 3-1 : Approche "objet" en JavaScript
+1. Introduction
+2. Programmation orientée objet au travers d’exemples
+
+#### Chapitre 3-2 : Objets de base de JavaScript
+1. Présentation
+2. Les objets de base
+
+#### Chapitre 3-3 : Les nouveautés d’EcmaScript 6
+1. Présentation générale
+2. Apports au niveau de la Programmation Orientée Objet
+3. Fonctions fléchées (arrow functions)
+4. Structures Map, Set et boucle for of
+5. Portée des variables (var ou let)
+6. Promesses (promise)
+7. Déstructuration
+
+### Partie 4 : Gestion de formulaire et modèle DOM
+
+#### Chapitre 4-1 : Saisie de données via des formulaires
+1. Pilotage des contrôles de saisie via JavaScript
+
+#### Chapitre 4-2 : Modèle DOM
+1. Introduction
+2. Apprentissage du modèle DOM
+
+#### Chapitre 4-3 : Exploration de flux XML via DOM
+1. Notion de flux XML
+2. Exemples
+
+### Partie 5 : Cookies et mécanismes de persistance
+
+#### Chapitre 5-1 : Gestion des cookies en JavaScript
+1. Notion de cookie
+2. Écriture d'un cookie
+3. Lecture d'un cookie
+4. Suppression d’un cookie
+
+#### Chapitre 5-2 : Stockage local de données
+1. Présentation générale des solutions
+2. Mise en œuvre du Web Storage au travers d’exemples
+
+#### Chapitre 5-3 : Stockage distant (Ajax - PHP - MySQL - XML)
+1. Présentation générale de la solution
+2. Mise en œuvre du stockage distant au travers d'exemples
+
+#### Chapitre 5-4 : Stockage distant (Ajax - PHP - MySQL - JSON)
+1. Présentation générale de la solution
+2. Mise en œuvre du stockage distant au travers d’exemples
+
+### Partie 6 : Géolocalisation, dessin et graphiques de gestion
+
+#### Chapitre 6-1 : Géolocalisation
+1. Principe de la géolocalisation
+2. Exemples d'applications de géolocalisation
+
+#### Chapitre 6-2 : Dessin (HTML5 CANVAS)
+1. Présentation de l'API HTML5 CANVAS
+2. Exemples d'applications de l'élément <canvas>
+
+#### Chapitre 6-3 : Graphiques de gestion
+1. Différentes solutions de conception de graphiques de gestion
+2. Exemples d'utilisation des API Google Charts
+
+### Partie 7 : Frameworks JavaScript
+
+#### Chapitre 7-1 : Positionnement des frameworks JavaScript
+1. Présentation générale des frameworks JavaScript
+
+#### Chapitre 7-2 : Installation de Node.js
+1. Présentation du framework Node.js
+2. Installation du framework Node.js
+
+#### Chapitre 7-3 : Framework Svelte
+1. Présentation du framework Svelte
+2. Site svelte.dev
+3. Création locale d’un projet Svelte
+
+#### Chapitre 7-4 : Framework React
+1. Présentation de React
+2. Création locale d’un projet React
+3. Projets React basiques
+
+#### Chapitre 7-5 : Framework React Native
+1. Approches de développement pour périphériques mobiles
+2. Présentation du framework React Native
+3. Projets React Native
+
