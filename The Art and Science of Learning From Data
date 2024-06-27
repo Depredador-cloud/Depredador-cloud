@@ -1,0 +1,115 @@
+
+# Statistics: The Art and Science of Learning From Data
+
+## Preface
+
+## Part One: Gathering and Exploring Data
+### Chapter 1: Statistics: The Art and Science of Learning from Data
+1.1 Using Data to Answer Statistical Questions
+1.2 Sample Versus Population
+1.3 Using Calculators and Computers
+
+### Chapter 2: Exploring Data with Graphs and Numerical Summaries
+2.1 Different Types of Data
+2.2 Graphical Summaries of Data
+2.3 Measuring the Center of Quantitative Data
+2.4 Measuring the Variability of Quantitative Data
+2.5 Using Measures of Position to Describe Variability
+2.6 Recognizing and Avoiding Misuses of Graphical Summaries
+
+### Chapter 3: Association: Contingency, Correlation, and Regression
+3.1 The Association Between Two Categorical Variables
+3.2 The Association Between Two Quantitative Variables
+3.3 Predicting the Outcome of a Variable
+3.4 Cautions in Analyzing Associations
+
+### Chapter 4: Gathering Data
+4.1 Experimental and Observational Studies
+4.2 Good and Poor Ways to Sample
+4.3 Good and Poor Ways to Experiment
+4.4 Other Ways to Conduct Experimental and Nonexperimental Studies
+
+## Part Two: Probability, Probability Distributions, and Sampling Distributions
+### Chapter 5: Probability in Our Daily Lives
+5.1 How Probability Quantifies Randomness
+5.2 Finding Probabilities
+5.3 Conditional Probability
+5.4 Applying the Probability Rules
+
+### Chapter 6: Probability Distributions
+6.1 Summarizing Possible Outcomes and Their Probabilities
+6.2 Probabilities for Bell-Shaped Distributions
+6.3 Probabilities When Each Observation Has Two Possible Outcomes
+
+### Chapter 7: Sampling Distributions
+7.1 How Sample Proportions Vary Around the Population Proportion
+7.2 How Sample Means Vary Around the Population Mean
+
+## Part Three: Inferential Statistics
+### Chapter 8: Statistical Inference: Confidence Intervals
+8.1 Point and Interval Estimates of Population Parameters
+8.2 Constructing a Confidence Interval to Estimate a Population Proportion
+8.3 Constructing a Confidence Interval to Estimate a Population Mean
+8.4 Choosing the Sample Size for a Study
+8.5 Using Computers to Make New Estimation Methods Possible
+
+### Chapter 9: Statistical Inference: Significance Tests About Hypotheses
+9.1 Steps for Performing a Significance Test
+9.2 Significance Tests About Proportions
+9.3 Significance Tests About Means
+9.4 Decisions and Types of Errors in Significance Tests
+9.5 Limitations of Significance Tests
+9.6 The Likelihood of a Type II Error and the Power of a Test
+
+### Chapter 10: Comparing Two Groups
+10.1 Categorical Response: Comparing Two Proportions
+10.2 Quantitative Response: Comparing Two Means
+10.3 Other Ways of Comparing Means, Including a Permutation Test
+10.4 Analyzing Dependent Samples
+10.5 Adjusting for the Effects of Other Variables
+
+## Part Four: Analyzing Association and Extended Statistical Methods
+### Chapter 11: Analyzing the Association Between Categorical Variables
+11.1 Independence and Dependence (Association)
+11.2 Testing Categorical Variables for Independence
+11.3 Determining the Strength of the Association
+11.4 Using Residuals to Reveal the Pattern of Association
+11.5 Fisher’s Exact and Permutation Tests
+
+### Chapter 12: Analyzing the Association Between Quantitative Variables: Regression Analysis
+12.1 Modeling How Two Variables Are Related
+12.2 Inference About Model Parameters and the Association
+12.3 Describing the Strength of Association
+12.4 How the Data Vary Around the Regression Line
+12.5 Exponential Regression: A Model for Nonlinearity
+
+### Chapter 13: Multiple Regression
+13.1 Using Several Variables to Predict a Response
+13.2 Extending the Correlation and R2 for Multiple Regression
+13.3 Inferences Using Multiple Regression
+13.4 Checking a Regression Model Using Residual Plots
+13.5 Regression and Categorical Predictors
+13.6 Modeling a Categorical Response
+
+### Chapter 14: Comparing Groups: Analysis of Variance Methods
+14.1 One-Way ANOVA: Comparing Several Means
+14.2 Estimating Differences in Groups for a Single Factor
+14.3 Two-Way ANOVA
+
+### Chapter 15: Nonparametric Statistics
+15.1 Compare Two Groups by Ranking
+15.2 Nonparametric Methods for Several Groups and for Matched Pairs
+
+## Appendices
+- Appendix A-1
+- Answers A-7
+- Index I-1
+- Index of Applications I-9
+- Credits C-1
+- A Guide to Learning From the Art in This Text D-1
+- Dataset Files D-2
+- A Guide to Choosing a Statistical Method D-3
+- Summary of Key Notations and Formulas D-4
+```
+
+Let me know if you need any further details or modifications!
