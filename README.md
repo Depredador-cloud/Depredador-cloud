@@ -2,6 +2,12 @@
 
 ### Hi there 👋, I'm Christian Morales
 #### Software Developer | Computer Science Explorer
+#### Programming education: 
+
+https://www.ituonline.com/
+https://www.tutorialspoint.com/index.htm
+https://www.w3schools.com/
+
 
 ![DALL·E 2024-06-27 06 06 29 - Create an image of a futuristic predator named Cloud, wearing advanced tactical gear with high-tech enhancements such as glowing eyes, advanced helmet (1)](https://github.com/Depredador-cloud/Depredador-gitpage/assets/63932523/571ced03-0a50-44e3-88d8-4748f472b478)
 
@@ -167,6 +173,12 @@ https://github.com/Depredador-cloud/Depredador-gitpage/assets/63932523/6c5bd5ec-
 ### Hola 👋, Christian Luis Morales Paez
 #### Soy un Ingeniero en informatica y explorador de la informatica
 ![Soy un Ingeniero en informatica y explorador de la informatica](https://github.com/Depredador-cloud/Depredador-gitpage)
+
+#### Escuela de programación que me enseñó : 
+
+https://www.ituonline.com/
+https://www.tutorialspoint.com/index.htm
+https://www.w3schools.com/
 
 Me gusta la informatica, los animes, y el paintball. 
 
