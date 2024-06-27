@@ -137,6 +137,49 @@ Aquí tienes un plan detallado con los capítulos del libro **"Aprendre à déve
 2. Presentación del framework React Native
 3. Proyectos React Native
 
+### Parte 8: Programación asíncrona
+
+#### Capítulo 8-1: Introducción a la programación asíncrona
+1. Conceptos básicos del asincronismo
+2. Callbacks
+
+#### Capítulo 8-2: Promesas
+1. Presentación de las promesas
+2. Uso de promesas
+3. Encadenamiento y gestión de errores
+
+#### Capítulo 8-3: Async/Await
+1. Presentación de Async/Await
+2. Uso de Async/Await
+
+### Parte 9: Gestión de errores y depuración
+
+#### Capítulo 9-1: Gestión de errores en JavaScript
+1. Try/Catch/Finally
+2. Gestión de excepciones
+
+#### Capítulo 9-2: Depuración
+1. Uso de herramientas de depuración
+2. Técnicas comunes de depuración
+
+### Parte 10: Pruebas y buenas prácticas
+
+#### Capítulo 10-1: Introducción a las pruebas en JavaScript
+1. Importancia de las pruebas
+2. Tipos de pruebas
+
+#### Capítulo 10-2: Herramientas de prueba
+1. Presentación de las principales herramientas de prueba
+2. Implementación de pruebas
+
+#### Capítulo 10-3: Buenas prácticas de desarrollo
+1. Escritura de código mantenible
+2. Optimización del rendimiento
+3. Seguridad del código
+
+
+_____________________________________________________________________________________________________________________________________
+
 ### Partie 1 : Présentation de JavaScript et programmation à partir d’algorithmes
 
 #### Chapitre 1-1 : Présentation du langage JavaScript
@@ -270,3 +313,42 @@ Aquí tienes un plan detallado con los capítulos del libro **"Aprendre à déve
 2. Présentation du framework React Native
 3. Projets React Native
 
+### Partie 8 : Programmation asynchrone
+
+#### Chapitre 8-1 : Introduction à la programmation asynchrone
+1. Concepts de base de l'asynchronisme
+2. Callbacks
+
+#### Chapitre 8-2 : Promesses
+1. Présentation des promesses
+2. Utilisation des promesses
+3. Chaining et gestion des erreurs
+
+#### Chapitre 8-3 : Async/Await
+1. Présentation de Async/Await
+2. Utilisation de Async/Await
+
+### Partie 9 : Gestion des erreurs et débogage
+
+#### Chapitre 9-1 : Gestion des erreurs en JavaScript
+1. Try/Catch/Finally
+2. Gestion des exceptions
+
+#### Chapitre 9-2 : Débogage
+1. Utilisation des outils de débogage
+2. Techniques de débogage courantes
+
+### Partie 10 : Tests et bonnes pratiques
+
+#### Chapitre 10-1 : Introduction aux tests en JavaScript
+1. Importance des tests
+2. Types de tests
+
+#### Chapitre 10-2 : Outils de test
+1. Présentation des principaux outils de test
+2. Mise en œuvre des tests
+
+#### Chapitre 10-3 : Bonnes pratiques de développement
+1. Écriture de code maintenable
+2. Optimisation des performances
+3. Sécurité du code
