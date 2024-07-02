@@ -7,7 +7,7 @@ Click on the link here for some gansta music while scrolling my profile.
 [Chris Jedi, YOVNGCHIMI, Dei V - Los Que Son](https://youtu.be/o3hebzdPWRQ?si=LsuQQCDuMQirri8f)
 
 ### Hi there 👋, I'm Christian Morales
-#### Software Developer | Computer Science Explorer
+#### Software Developer | Computer Science Explorer | AI Algorithmic engineer 
 #### Programming education: 
 
 https://www.ituonline.com/
