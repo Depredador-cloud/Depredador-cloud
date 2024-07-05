@@ -13,6 +13,7 @@ Click on the link here for some gansta music while scrolling my profile.
 https://www.ituonline.com/
 https://www.tutorialspoint.com/index.htm
 https://www.w3schools.com/
+WebTools: https://freesets.vercel.app/libraries
 
 
 ![DALL·E 2024-06-27 06 06 29 - Create an image of a futuristic predator named Cloud, wearing advanced tactical gear with high-tech enhancements such as glowing eyes, advanced helmet (1)](https://github.com/Depredador-cloud/Depredador-gitpage/assets/63932523/571ced03-0a50-44e3-88d8-4748f472b478)
