@@ -44,7 +44,7 @@ WebTools: https://freesets.vercel.app/libraries
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://github.com/Depredador-cloud/R-studio-Basics/blob/main/README.md)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Depredador-cloud/Rust-Basics/blob/main/README.md)
 [![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/Depredador-cloud/Swift-Basics-/blob/main/README.md)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
