@@ -68,28 +68,6 @@ WebTools: https://freesets.vercel.app/libraries
 ![Scheme](https://img.shields.io/badge/Scheme-%2348B0D8.svg?style=for-the-badge&logo=scheme&logoColor=white)
 ![Smalltalk](https://img.shields.io/badge/Smalltalk-%23547293.svg?style=for-the-badge&logo=smalltalk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Depredador-cloud/Dart-Basics/blob/main/README.md)
-[![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)](https://github.com/Depredador-cloud/Elixir-Basics/blob/main/README.md)
-[![Haskell](https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white)](https://github.com/Depredador-cloud/Haskell-Basics/blob/main/README.md)
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/Depredador-cloud/Lua-Basics/blob/main/README.md)
-[![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7200.svg?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/Depredador-cloud/MATLAB-Basics/blob/main/README.md)
-[![Objective-C](https://img.shields.io/badge/Objective--C-%23387EB8.svg?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Depredador-cloud/Objective-C-Basics/blob/main/README.md)
-[![Pascal](https://img.shields.io/badge/Pascal-%2389E051.svg?style=for-the-badge&logo=pascal&logoColor=white)](https://github.com/Depredador-cloud/Pascal-Basics/blob/main/README.md)
-[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://github.com/Depredador-cloud/Ruby-on-Rails-Basics/blob/main/README.md)
-[![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Depredador-cloud/Shell-Script-Basics/blob/main/README.md)
-[![VBA](https://img.shields.io/badge/VBA-%23669CB3.svg?style=for-the-badge&logo=vba&logoColor=white)](https://github.com/Depredador-cloud/VBA-Basics/blob/main/README.md)
-[![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)](https://github.com/Depredador-cloud/YAML-Basics/blob/main/README.md)
-[![Ada](https://img.shields.io/badge/Ada-%232D3B50.svg?style=for-the-badge&logo=ada&logoColor=white)](https://github.com/Depredador-cloud/Ada-Basics/blob/main/README.md)
-[![F#](https://img.shields.io/badge/F%23-%230B0B0B.svg?style=for-the-badge&logo=f-sharp&logoColor=white)](https://github.com/Depredador-cloud/Fsharp-Basics/blob/main/README.md)
-[![Fortran](https://img.shields.io/badge/Fortran-%23734F24.svg?style=for-the-badge&logo=fortran&logoColor=white)](https://github.com/Depredador-cloud/Fortran-Basics/blob/main/README.md)
-[![Julia](https://img.shields.io/badge/Julia-%237E10CC.svg?style=for-the-badge&logo=julia&logoColor=white)](https://github.com/Depredador-cloud/Julia-Basics/blob/main/README.md)
-[![LabVIEW](https://img.shields.io/badge/LabVIEW-%23F4C300.svg?style=for-the-badge&logo=labview&logoColor=white)](https://github.com/Depredador-cloud/LabVIEW-Basics/blob/main/README.md)
-[![Lisp](https://img.shields.io/badge/Lisp-%23202520.svg?style=for-the-badge&logo=lisp&logoColor=white)](https://github.com/Depredador-cloud/Lisp-Basics/blob/main/README.md)
-[![Prolog](https://img.shields.io/badge/Prolog-%233F4A6F.svg?style=for-the-badge&logo=prolog&logoColor=white)](https://github.com/Depredador-cloud/Prolog-Basics/blob/main/README.md)
-[![Scheme](https://img.shields.io/badge/Scheme-%2348B0D8.svg?style=for-the-badge&logo=scheme&logoColor=white)](https://github.com/Depredador-cloud/Scheme-Basics/blob/main/README.md)
-[![Smalltalk](https://img.shields.io/badge/Smalltalk-%23547293.svg?style=for-the-badge&logo=smalltalk&logoColor=white)](https://github.com/Depredador-cloud/Smalltalk-Basics/blob/main/README.md)
-[![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)](https://github.com/Depredador-cloud/SQL-Basics/blob/main/README.md)
-
 
 ## Office Tools
 
