@@ -55,7 +55,7 @@ WebTools: https://freesets.vercel.app/libraries
 [![Objective-C](https://img.shields.io/badge/Objective--C-%23387EB8.svg?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Depredador-cloud/Objective-C-basics/blob/main/README.md)
 [![Pascal](https://img.shields.io/badge/Pascal-%2389E051.svg?style=for-the-badge&logo=pascal&logoColor=white)](https://github.com/Depredador-cloud/Pascal-Basics)
 [![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://github.com/Depredador-cloud/Ruby-on-rails-Basics/blob/main/README.md)
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Depredador-cloud/Linux-Basics/blob/main/README.md)
 ![VBA](https://img.shields.io/badge/VBA-%23669CB3.svg?style=for-the-badge&logo=vba&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
 ![Ada](https://img.shields.io/badge/Ada-%232D3B50.svg?style=for-the-badge&logo=ada&logoColor=white)
