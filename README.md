@@ -61,7 +61,7 @@ WebTools: https://freesets.vercel.app/libraries
 [![Ada](https://img.shields.io/badge/Ada-%232D3B50.svg?style=for-the-badge&logo=ada&logoColor=white)](https://github.com/Depredador-cloud/Ada-Basics/blob/main/README.md)
 [![F#](https://img.shields.io/badge/F%23-%230B0B0B.svg?style=for-the-badge&logo=f-sharp&logoColor=white)](https://github.com/Depredador-cloud/F-sharp-basics)
 [![Fortran](https://img.shields.io/badge/Fortran-%23734F24.svg?style=for-the-badge&logo=fortran&logoColor=white)](https://github.com/Depredador-cloud/Fortran-Cuda-Basics/blob/main/README.md)
-![Julia](https://img.shields.io/badge/Julia-%237E10CC.svg?style=for-the-badge&logo=julia&logoColor=white)
+[![Julia](https://img.shields.io/badge/Julia-%237E10CC.svg?style=for-the-badge&logo=julia&logoColor=white)](https://github.com/Depredador-cloud/Julia-Basics)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-%23F4C300.svg?style=for-the-badge&logo=labview&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-%23202520.svg?style=for-the-badge&logo=lisp&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-%233F4A6F.svg?style=for-the-badge&logo=prolog&logoColor=white)
