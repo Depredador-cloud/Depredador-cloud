@@ -69,6 +69,7 @@ WebTools: https://freesets.vercel.app/libraries
 ![Smalltalk](https://img.shields.io/badge/Smalltalk-%23547293.svg?style=for-the-badge&logo=smalltalk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-%235C2D91.svg?style=for-the-badge&logo=assembly&logoColor=white)
+![GNU](https://img.shields.io/badge/GNU-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
 
 
 
