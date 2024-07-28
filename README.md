@@ -67,7 +67,7 @@ WebTools: https://freesets.vercel.app/libraries
 [![Prolog](https://img.shields.io/badge/Prolog-%233F4A6F.svg?style=for-the-badge&logo=prolog&logoColor=white)](https://github.com/Depredador-cloud/Prolog-Basics)
 [![Scheme](https://img.shields.io/badge/Scheme-%2348B0D8.svg?style=for-the-badge&logo=scheme&logoColor=white)](https://github.com/Depredador-cloud/Scheme-Basics/blob/main/README.md)
 [![Smalltalk](https://img.shields.io/badge/Smalltalk-%23547293.svg?style=for-the-badge&logo=smalltalk&logoColor=white)](https://github.com/Depredador-cloud/Smalltalk-Basics/blob/main/README.md)
-![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)](https://github.com/Depredador-cloud/SQL-Basics)
 ![Assembly](https://img.shields.io/badge/Assembly-%235C2D91.svg?style=for-the-badge&logo=assembly&logoColor=white)
 ![GNU](https://img.shields.io/badge/GNU-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
 
