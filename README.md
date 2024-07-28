@@ -64,7 +64,7 @@ WebTools: https://freesets.vercel.app/libraries
 [![Julia](https://img.shields.io/badge/Julia-%237E10CC.svg?style=for-the-badge&logo=julia&logoColor=white)](https://github.com/Depredador-cloud/Julia-Basics)
 [![LabVIEW](https://img.shields.io/badge/LabVIEW-%23F4C300.svg?style=for-the-badge&logo=labview&logoColor=white)](https://github.com/Depredador-cloud/Labview-Basics)
 [![Lisp](https://img.shields.io/badge/Lisp-%23202520.svg?style=for-the-badge&logo=lisp&logoColor=white)](https://github.com/Depredador-cloud/Lisp-Basics)
-![Prolog](https://img.shields.io/badge/Prolog-%233F4A6F.svg?style=for-the-badge&logo=prolog&logoColor=white)
+[![Prolog](https://img.shields.io/badge/Prolog-%233F4A6F.svg?style=for-the-badge&logo=prolog&logoColor=white)](https://github.com/Depredador-cloud/Prolog-Basics)
 ![Scheme](https://img.shields.io/badge/Scheme-%2348B0D8.svg?style=for-the-badge&logo=scheme&logoColor=white)
 ![Smalltalk](https://img.shields.io/badge/Smalltalk-%23547293.svg?style=for-the-badge&logo=smalltalk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
