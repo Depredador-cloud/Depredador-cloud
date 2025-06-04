@@ -1,14 +1,3 @@
-body {
-    cursor: url('path/to/predator-laser-pointer.png'), auto; /* Replace with the path to your cursor image */
-}
-
-h1, p {
-    color: #fff; /* Example text color */
-    text-align: center;
-    margin-top: 50px;
-}
-
-
 # Depredador-cloud
 
 ## Coding Etiquette : https://github.com/Depredador-cloud/Clean-architecture/blob/main/README.md 
