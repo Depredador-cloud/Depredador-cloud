@@ -2,6 +2,9 @@
 
 ## Coding Etiquette : https://github.com/Depredador-cloud/Clean-architecture/blob/main/README.md 
 
+![Predator Targeting](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNzMnZmMjVqbjV4YnNnM2ZiNGZ0enRjdGNwaHR2YmZ0aHV5c3NzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ variantes-del-universo/yNfF1t33q23gQ/giphy.gif) ```
+*Place this strategically, maybe near your intro or a section about your "targets" (goals/projects).*
+
 Click on the link for smooth music while scrolling my profile. 
 [Farruko X Madiel Lara - Tiempos Buenos | Cvrbon Vrmor S2 (Official Visualizer)](https://youtu.be/150Cp25xG7E?si=-A06gn9ZRmyrL-s9)
 
