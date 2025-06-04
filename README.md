@@ -2,7 +2,7 @@
 
 <!-- Jungle Banner Top -->
 <p align="center">
-  <img src="https://images.app.goo.gl/DSonUvH357nTcfex6" alt="jungle banner" width="100%">
+  <img src="https://i.imgur.com/6QJZQ9m.jpg" alt="jungle banner" style="width:100%; border-radius:10px;">
 </p>
 
 ## Coding Etiquette : https://github.com/Depredador-cloud/Clean-architecture/blob/main/README.md 
