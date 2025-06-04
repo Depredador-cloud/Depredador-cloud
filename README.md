@@ -3,16 +3,25 @@
 ## Coding Etiquette : https://github.com/Depredador-cloud/Clean-architecture/blob/main/README.md 
 
 <details>
-<summary>💥 Click to Reveal My Programming Arsenal 💥</summary>
+<summary><strong>👑 View My Trophy Hall (Certifications & Achievements) 👑</strong></summary>
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Depredador-cloud/JavascriptBasic/blob/main/README.md)
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Depredador-cloud/HTML5-Basic/blob/main/README.md)
+- Certification X from Y Institute
+- Award Z for Project A
+- [Link to your ITU Online profile or specific achievements]
+
 </details>
 
 <details>
-<summary>🛠️ Uncover My Hunter's Toolkit (IDEs & Tools) 🛠️</summary>
+<summary><strong>🛠️ Explore My Tech Arsenal (Skills & Tools) 🛠️</strong></summary>
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+#### Programming Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](...)
+...
+
+#### Office Tools
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
+...
+
 </details>
 
 Click on the link for smooth music while scrolling my profile. 
