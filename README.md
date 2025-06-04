@@ -1,5 +1,7 @@
 # Depredador-cloud
 
+![opening-door-open](https://github.com/user-attachments/assets/4624429a-28b8-42a2-9ae4-7218eb7b8e37)
+
 ## Coding Etiquette : https://github.com/Depredador-cloud/Clean-architecture/blob/main/README.md 
 
 ![Opulento Animation](bloggif_684090cdae6d1.gif)![bloggif_684090cdae6d1](https://github.com/user-attachments/assets/fd5d6f45-2d48-45e3-949e-33b2abbcaa64) ![Opulento Animation](bloggif_684090cdae6d1.gif)![bloggif_684090cdae6d1](https://github.com/user-attachments/assets/fd5d6f45-2d48-45e3-949e-33b2abbcaa64) ![Opulento Animation](bloggif_684090cdae6d1.gif)![bloggif_684090cdae6d1](https://github.com/user-attachments/assets/fd5d6f45-2d48-45e3-949e-33b2abbcaa64) ![Opulento Animation](bloggif_684090cdae6d1.gif)![bloggif_684090cdae6d1](https://github.com/user-attachments/assets/fd5d6f45-2d48-45e3-949e-33b2abbcaa64) ![Opulento Animation](bloggif_684090cdae6d1.gif)![bloggif_684090cdae6d1](https://github.com/user-attachments/assets/fd5d6f45-2d48-45e3-949e-33b2abbcaa64) 
@@ -187,6 +189,7 @@ WebTools: https://freesets.vercel.app/libraries
 
 https://github.com/Depredador-cloud/Depredador-gitpage/assets/63932523/6c5bd5ec-3c1e-4ded-bb03-bc5a4e4e8804
 
+![opening-door-open](https://github.com/user-attachments/assets/b1edc447-4b3d-40f2-8ba8-33d308ca6119)
 
 
 ### Hola 👋, Christian Luis Morales Paez
