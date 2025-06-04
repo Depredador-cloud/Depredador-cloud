@@ -10,7 +10,7 @@ Click on the link here for some gansta music while scrolling my profile.
 
 <!-- Vine Separator -->
 <p align="center">
-  <img src="https://www.freepnglogos.com/uploads/vine-png/vine-png-vector-clipart-psd-peoplepng-5.png" width="100" alt="vine">
+  <img src="https://www.freepnglogos.com/uploads/vine-png/vine-line-decoration-transparent-14.png" width="100" alt="vine decoration">
 </p>
 
 ### Hi there 👋, I'm Christian Morales
