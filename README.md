@@ -2,6 +2,8 @@
 
 ## Coding Etiquette : https://github.com/Depredador-cloud/Clean-architecture/blob/main/README.md 
 
+![Opulento Animation](bloggif_684090cdae6d1.gif)![bloggif_684090cdae6d1](https://github.com/user-attachments/assets/fd5d6f45-2d48-45e3-949e-33b2abbcaa64) ![Opulento Animation](bloggif_684090cdae6d1.gif)![bloggif_684090cdae6d1](https://github.com/user-attachments/assets/fd5d6f45-2d48-45e3-949e-33b2abbcaa64) ![Opulento Animation](bloggif_684090cdae6d1.gif)![bloggif_684090cdae6d1](https://github.com/user-attachments/assets/fd5d6f45-2d48-45e3-949e-33b2abbcaa64) ![Opulento Animation](bloggif_684090cdae6d1.gif)![bloggif_684090cdae6d1](https://github.com/user-attachments/assets/fd5d6f45-2d48-45e3-949e-33b2abbcaa64) ![Opulento Animation](bloggif_684090cdae6d1.gif)![bloggif_684090cdae6d1](https://github.com/user-attachments/assets/fd5d6f45-2d48-45e3-949e-33b2abbcaa64) 
+![Opulento Animation](bloggif_684090cdae6d1.gif)![bloggif_684090cdae6d1](https://github.com/user-attachments/assets/fd5d6f45-2d48-45e3-949e-33b2abbcaa64) 
 
 Click on the link for smooth music while scrolling my profile. 
 [Farruko X Madiel Lara - Tiempos Buenos | Cvrbon Vrmor S2 (Official Visualizer)](https://youtu.be/150Cp25xG7E?si=-A06gn9ZRmyrL-s9)
