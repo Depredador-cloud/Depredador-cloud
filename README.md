@@ -2,7 +2,18 @@
 
 ## Coding Etiquette : https://github.com/Depredador-cloud/Clean-architecture/blob/main/README.md 
 
-![Thermal Vision](URL_TO_THERMAL_VISION_GIF)
+<details>
+<summary>💥 Click to Reveal My Programming Arsenal 💥</summary>
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Depredador-cloud/JavascriptBasic/blob/main/README.md)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Depredador-cloud/HTML5-Basic/blob/main/README.md)
+</details>
+
+<details>
+<summary>🛠️ Uncover My Hunter's Toolkit (IDEs & Tools) 🛠️</summary>
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+</details>
 
 Click on the link for smooth music while scrolling my profile. 
 [Farruko X Madiel Lara - Tiempos Buenos | Cvrbon Vrmor S2 (Official Visualizer)](https://youtu.be/150Cp25xG7E?si=-A06gn9ZRmyrL-s9)
